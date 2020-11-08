@@ -70,7 +70,8 @@ article {
 
 iframe {
     width: 85.5%;
-    margin: 20px;
+    height: 250px;
+    margin: 30px;
 }
 
 .click:hover {
