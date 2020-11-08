@@ -52,6 +52,7 @@ article {
     color: #CEECF4;
     font-size: 30px;
     font-family: "-윤고딕330";
+    margin: 0 0 40px 0;
 }
 
 .talk {
@@ -65,4 +66,27 @@ article {
     font-size: 16px;
     font-family: "-윤고딕320";
     color: #CEECF4;
+}
+
+iframe {
+    width: 85.5%;
+    margin: 20px;
+}
+
+.click:hover {
+    background-color: darksalmon;
+}
+
+footer p {
+    font-family: "-윤고딕310";
+    color: azure;
+    font-size: 12px;
+}
+
+a {
+    list-style: none;
+}
+
+iframe {
+    border: none;
 }
