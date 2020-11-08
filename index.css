@@ -1,0 +1,68 @@
+* {
+    background-color: #41312D;
+}
+
+header nav{
+    float: center;
+    width: 92%;
+    margin: 0px;
+    padding: 0px;
+    background-color: #CEECF4;
+}
+
+ul, table, td {
+    background-color: #CEECF4;
+}
+
+ul li {
+    padding: 20px 50px;
+    font-size: 17px;
+    font-family: "-윤고딕330";
+    list-style: none;
+    list-style-type: none;
+    background-color: #CEECF4;
+}
+
+a:link {
+    color: #41312D;
+    text-decoration: none;
+    background-color: #CEECF4;
+}
+
+a:visited {
+    color: #41312D;
+    text-decoration: none;
+    background-color: #CEECF4;
+}
+
+section h1 {
+    margin: 50px 100px 20px 100px;
+}
+
+#illust {
+    float: left;
+}
+
+article {
+    margin: 10px 0 0 0;
+    float: right;
+}
+
+.intro {
+    color: #CEECF4;
+    font-size: 30px;
+    font-family: "-윤고딕330";
+}
+
+.talk {
+    font-size: 14px;
+    font-family: "-윤고딕310";
+    color: #CEECF4;
+    margin: 0;
+}
+
+.question {
+    font-size: 16px;
+    font-family: "-윤고딕320";
+    color: #CEECF4;
+}
