@@ -1,68 +1,62 @@
 * {
     background-color: #CEECF4;
+    padding: 0 0 0 20px;
+}
+
+body {
+    width: 1200px;
+}
+
+h1 {
+    color: #41312D;
+    font-family: "-윤고딕350";
 }
 
 p{
-    color: #222;
+    color: #41312D;
     width: 400px;
+    font-family: "-윤고딕330";
+    float: left;
 }
 
 
-.list_description{
-    border-bottom: 1px solid;
-}
-
-.disc_list{
-    list-style: disc;
-}
-
-.circle_list{
-    list-style: circle;
-}
-
-.square_list{
-    list-style: square;
-}
-
-
-.none_bullet{
+.list {
+    border-bottom: 2px solid #41312D;
+    color: #41312D;
     list-style: none;
+    padding: 30px 700px 10px 0;
 }
 
 ol li{
-    list-style: decimal-leading-zero;
+    padding: 0px;
+    font-family: "-윤고딕330";
 }
 
-.img_list li{
-    list-style: none;
-    background-image: url("logo.png") no-repeat;
-    background-size: 20px;
-    padding: 0 0 0 25px;
-}
-
-.prize li{
-    list-style: none;
-    background-image: url("logo.png") no-repeat;
-    background-size: 20px;
-    padding: 0 0 0 25px;
-}
-
-.prize li:nth-child(3n+1){
-    list-style: none;
-    background-image: url("logo.png") no-repeat;
-    background-size: 20px;
-    padding: 0 0 0 25px;
-}
-
-.style_dl {
-    widows: 400px;
-    height: 100px;
-    overflow: auto;   
-}
-
-.style_dl dt{
+.my_list li {
     float: left;
+    margin: 0 8px;
+    list-style: none;
 }
-.style_dl dd{
-    margin: 0 0 1em 0;
+
+.best_list li {
+    float: left;
+    margin: 0 20px;
+}
+
+.today_list{
+    float: left;
+    width: 1200px;
+    margin: 0px;
+}
+
+dt {
+    float: left;
+    margin: 0px;
+}
+
+.today_title {
+    padding: 0 0 0 10px;
+    margin: 20px 40px 0 0px;
+    width: 130px;
+    font-family: "-윤고딕340";
 }
