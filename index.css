@@ -91,3 +91,12 @@ a {
 iframe {
     border: none;
 }
+
+.recommend {
+    border-bottom: 2px solid #CEECF4;
+    list-style: none;
+    width: 85%;
+    padding: 500px 0 0 0;
+    margin: 10px 50px 0 50px;
+    font-family: "-윤고딕320";
+}
