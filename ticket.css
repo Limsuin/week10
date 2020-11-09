@@ -1,0 +1,82 @@
+* {
+    background-color: #41312D;
+}
+
+header nav{
+    float: center;
+    width: 92%;
+    margin: 0px;
+    padding: 0px;
+    background-color: #CEECF4;
+}
+
+ul, table, td {
+    background-color: #CEECF4;
+}
+
+ul li {
+    padding: 20px 50px;
+    font-size: 17px;
+    font-family: "-윤고딕330";
+    list-style: none;
+    list-style-type: none;
+    background-color: #CEECF4;
+}
+
+a:link {
+    color: #41312D;
+    text-decoration: none;
+    background-color: #CEECF4;
+}
+
+a:visited {
+    color: #41312D;
+    text-decoration: none;
+    background-color: #CEECF4;
+}
+
+section {
+    width: 88.5%;
+    height: auto;
+    background-color: beige;
+    padding: 30px 25px 80px 25px;
+}
+
+section h1 {
+    background-color: beige;
+    color: #41312D;
+    font-family: "-윤고딕350";
+    font-size: 40px;
+}
+
+table1, table2, table3 {
+    background-color: beige;
+    width: auto;
+}
+
+footer p {
+    font-family: "-윤고딕310";
+    color: azure;
+    font-size: 12px;
+}
+
+section td {
+    padding: 10px;
+}
+
+.list {
+    border-bottom: 2px solid #41312D;
+    background-color: beige;
+    color: #41312D;
+    list-style: none;
+    padding: 30px 700px 10px 0;
+    font-family: "-윤고딕330";
+    font-size: 20px;
+}
+
+.want {
+    background-color: beige;
+    color: #41312D;
+    font-family: "-윤고딕310";
+    
+}
